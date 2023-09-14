@@ -1,4 +1,4 @@
-package flush
+package collection
 
 type Nullable interface {
 
